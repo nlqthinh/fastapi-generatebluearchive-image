@@ -4,7 +4,7 @@ This project provides an API to generate images in the **Blue Archive** art styl
 
 ![FASTAPI Docs](images/Anh22.png) 
 
-this looks like bronya xD
+this looks like Bronya xD
 ---
 
 ## Requirements
