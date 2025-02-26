@@ -60,7 +60,10 @@ The original model used in this project is derived from **BAXL**. You can find t
    ![Try it Out](images/Anh23.png)
 
 3. Enter your **prompt** and other parameters (e.g., `width`, `height`) in the input fields and click **Execute**.
-   ![Input Prompt](images/Anh24.png) 
+   ![Input Prompt](images/Anh24.png)
+
+4. Wait (it will take a lot of times depend on your device)
+   ![Wait](images/Anh19.png)
 ---
 
 ### Step 2: View the Result
