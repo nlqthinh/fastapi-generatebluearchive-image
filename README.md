@@ -1,10 +1,8 @@
-Here’s a draft for your GitHub `README.md` file:
-
----
-
 # Blue Archive Art Style Image Generator API
 
 This project provides an API to generate images in the **Blue Archive** art style using FastAPI. The API leverages the power of Stable Diffusion and Diffusers to produce high-quality images.
+
+![FASTAPI Docs](images/Anh22) 
 
 ---
 
@@ -33,7 +31,7 @@ pipeline = DiffusionPipeline.from_pretrained(
 ```
 
 ### Original Model Source
-The original model used in this project is derived from **BAXL**. You can find the link to the model [here](#). *(Add the actual link to the model if available.)*
+The original model used in this project is derived from **BAXL**. You can find the link to the model [here](https://civitai.com/models/212253/baxl-or-blue-archive-flat-celluloid-style-fine-tune-or-kohaku-d-and-animagine-xl-v3).
 
 ---
 
@@ -56,22 +54,20 @@ The original model used in this project is derived from **BAXL**. You can find t
 ### Step 1: Test the Endpoint `/api/v1/generate/`
 
 1. Navigate to the `/docs` page in your browser.
-   ![API Docs](#) *(Replace with an image showing the API documentation.)*
+   ![API Docs](images/Anh21) 
 
 2. Click **Try it out** on the `/api/v1/generate/` endpoint.
-   ![Try it Out](#) *(Replace with an image of the "Try it Out" button.)*
+   ![Try it Out](images/Anh23)
 
 3. Enter your **prompt** and other parameters (e.g., `width`, `height`) in the input fields and click **Execute**.
-   ![Input Prompt](#) *(Replace with an image showing parameter input.)*
-
+   ![Input Prompt](images/Anh24) 
 ---
 
 ### Step 2: View the Result
 
-The API will return the generated image. You can download or visualize the result directly.
+The API will return the generated image:
 
-![Generated Image](#) *(Replace with an image of a generated result.)*
-
+![Generated Image](images/Anh20) 
 ---
 
 ## Features
