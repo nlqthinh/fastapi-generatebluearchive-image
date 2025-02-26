@@ -2,7 +2,7 @@
 
 This project provides an API to generate images in the **Blue Archive** art style using FastAPI. The API leverages the power of Stable Diffusion and Diffusers to produce high-quality images.
 
-[FASTAPI Docs](images/Anh22) 
+![FASTAPI Docs](images/Anh22.png) 
 
 ---
 
@@ -54,20 +54,20 @@ The original model used in this project is derived from **BAXL**. You can find t
 ### Step 1: Test the Endpoint `/api/v1/generate/`
 
 1. Navigate to the `/docs` page in your browser.
-   [API Docs](images/Anh21) 
+   ![API Docs](images/Anh21.png) 
 
 2. Click **Try it out** on the `/api/v1/generate/` endpoint.
-   [Try it Out](images/Anh23)
+   ![Try it Out](images/Anh23.png)
 
 3. Enter your **prompt** and other parameters (e.g., `width`, `height`) in the input fields and click **Execute**.
-   [Input Prompt](images/Anh24) 
+   ![Input Prompt](images/Anh24.png) 
 ---
 
 ### Step 2: View the Result
 
 The API will return the generated image:
 
-![Generated Image](images/Anh20) 
+![Generated Image](images/Anh20.png) 
 ---
 
 ## Features
